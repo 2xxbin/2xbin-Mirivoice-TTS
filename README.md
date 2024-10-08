@@ -43,10 +43,10 @@ This dataset was not recorded by a professional voice actor, so there may be var
 1. This dataset can be used to train TTS models.
 2. This dataset can be used for research purposes.
 3. You may create a unique dataset using SVC methods with this dataset.
-   4-1. In this case, the created model can be distributed, but the transformed dataset cannot be distributed.
-   4-2. Without explicit permission from the voice provider, you may not use this dataset to create a new dataset.
+   - In this case, the created model can be distributed, but the transformed dataset cannot be distributed.
+   - Without explicit permission from the voice provider, you may not use this dataset to create a new dataset.
 4. You cannot modify this dataset and use it to create and distribute a character with the same voice as `2xbin`.
 5. If you use this dataset in any way, please credit the source.
-     - Example: "This model was created using the publicly available `2xbin MiriVoice TTS` dataset and transformed through SVC."
+   - Example: "This model was created using the publicly available `2xbin MiriVoice TTS` dataset and transformed through SVC."
 
 Any usage outside of the terms above is subject to `CC BY-NC-SA 4.0` license.
