@@ -7,9 +7,10 @@
 
 https://github.com/user-attachments/assets/3f238bef-a6a8-4a43-9f1f-e0b70025c633
 
-동일한 문장의 빈빈 미리보이스 출력 오디오
+동일한 문장의 빈빈 미리보이스 출력 오디오 
+(39000 스텝, 파인튜닝 모델 `리보` 사용, `config-mirivoice-colab-fintune-v2.json` 사용)
 
-**아직 제공되지 않음**
+https://github.com/user-attachments/assets/57c66e72-d7de-455d-aacd-44b31b3b7204
 
 ---
 
