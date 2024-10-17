@@ -10,8 +10,9 @@ Recorded audio MV-KOR-AA-NORMAL-0-036
 https://github.com/user-attachments/assets/3f238bef-a6a8-4a43-9f1f-e0b70025c633
 
 Same sentence output from 2xbin MiriVoice
+(49000Step, Fintuning Model Rivo, use `config-mirivoice-colab-fintune-v2.json`)
 
-**Not yet provided**
+https://github.com/user-attachments/assets/57c66e72-d7de-455d-aacd-44b31b3b7204
 
 ---
 
